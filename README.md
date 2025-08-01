@@ -1,1 +1,1 @@
-# This is my local repository and I have learnt about the git push commands
+# This is my java code repo, and I am learning git commands and Java
