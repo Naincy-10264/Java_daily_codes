@@ -6,6 +6,7 @@ public class ExceptionMethod extends Exception{
     ExceptionMethod(String s){
         super(s);
     }
+    @Override
     public String toString(){
         return "balance should be greater than 5000";
     }
